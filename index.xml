@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Óscar Rodríguez López on Óscar Rodríguez López - Physics Portfolio</title>
+    <link>https://olsrcra.github.io/</link>
+    <description>Recent content in Óscar Rodríguez López on Óscar Rodríguez López - Physics Portfolio</description>
+    <generator>Hugo</generator>
+    <language>es-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://olsrcra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Mí</title>
+      <link>https://olsrcra.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://olsrcra.github.io/about/</guid>
+      <description>&lt;p&gt;## Mi Trayectoria en Física&lt;/p&gt;&#xA;&lt;p&gt;Soy físico graduado con especialización en física teórica, actualmente expandiendo mis conocimientos hacia aplicaciones médicas a través de la radiofísica hospitalaria. Mi trabajo conecta conceptos teóricos complejos con implementaciones prácticas y comunicación clara.&lt;/p&gt;&#xA;&lt;p&gt;### Formación Académica&lt;/p&gt;&#xA;&lt;p&gt;- **Grado en Física** - Especialización en Física Teórica&lt;/p&gt;&#xA;&lt;p&gt;- **Radiofísica Hospitalaria** - Especialización en curso&lt;/p&gt;&#xA;&lt;p&gt;- **Matemáticas Autodidacta** - Temas avanzados en geometría diferencial, teoría de grupos&lt;/p&gt;&#xA;&lt;p&gt;- **Gravedad Cuántica** - Investigación y estudio independiente&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
