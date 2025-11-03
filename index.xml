@@ -9,11 +9,32 @@
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://olsrcra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introducción a la Gravedad Cuántica</title>
+      <link>https://olsrcra.github.io/textos/gravedad-cuantica/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://olsrcra.github.io/textos/gravedad-cuantica/</guid>
+      <description>&lt;p&gt;Más o menos, me gustaría que esto empezara con cosas muy básicas y he pensado que lo mejor para empezar a hablar de grupos es hablar de las rotaciones en el plano. Una rotación de un vector en el plano es lo que podéis suponer que es, mover el vector dejando su inicio fijo y, por supuesto, sin poder cambiar su módulo. Esto hace que solo pueda moverse describiendo una circunferencia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mis Textos</title>
+      <link>https://olsrcra.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://olsrcra.github.io/project/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://olsrcra.github.io/textos/gravedad-cuantica&#34;&gt;Introducción a la Gravedad Cuántica&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mis Textos</title>
+      <link>https://olsrcra.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://olsrcra.github.io/projects/</guid>
+      <description>&lt;p&gt; [Introducción a la Gravedad Cuántica](#)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://olsrcra.github.io/textos/gravedad-cuantica&#34;&gt;Introducción a la Gravedad Cuántica&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sobre Mí</title>
       <link>https://olsrcra.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://olsrcra.github.io/about/</guid>
-      <description>&lt;p&gt;Mi Trayectoria en Física&lt;/p&gt;&#xA;&lt;p&gt;Físico graduado por la Universistat de València entusiasta de la física matemática especializándome en radiofísica hospitalaria. También realizo trabajos divulgación científica ya sea por medio de textos divulgativos o por charlas orientadas a niños.&lt;/p&gt;&#xA;&lt;p&gt;\Experiencia en Divulgación y Comunicación&lt;/p&gt;&#xA;&lt;p&gt;- Diseñé y impartí talleres de física para niños (5-12) años. Orienté un grupo que ganó el premio Experimenta de València (14 años)&lt;/p&gt;&#xA;&lt;p&gt;- Mis textos de divulgación han ayudado a muchos a introducirse en temas que en primera instancia parecían imposibles.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mi Trayectoria en Física&lt;/p&gt;&#xA;&lt;p&gt;Físico graduado por la Universistat de València entusiasta de la física matemática especializándome en radiofísica hospitalaria. También realizo trabajos divulgación científica ya sea por medio de textos divulgativos o por charlas orientadas a niños.&lt;/p&gt;&#xA;&lt;p&gt;Experiencia en Divulgación y Comunicación&lt;/p&gt;&#xA;&lt;p&gt;- Diseñé e impartí talleres de física para niños (5-12) años. Orienté un grupo que ganó el premio Experimenta de València (14 años)&lt;/p&gt;&#xA;&lt;p&gt;- Mis textos de divulgación han ayudado a muchos a introducirse en temas que en primera instancia parecían imposibles.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

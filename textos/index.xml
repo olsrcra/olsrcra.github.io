@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textos on Portfolio de Óscar Rodríguez López</title>
+    <link>https://olsrcra.github.io/textos/</link>
+    <description>Recent content in Textos on Portfolio de Óscar Rodríguez López</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://olsrcra.github.io/textos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a la Gravedad Cuántica</title>
+      <link>https://olsrcra.github.io/textos/gravedad-cuantica/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://olsrcra.github.io/textos/gravedad-cuantica/</guid>
+      <description>&lt;p&gt;Más o menos, me gustaría que esto empezara con cosas muy básicas y he pensado que lo mejor para empezar a hablar de grupos es hablar de las rotaciones en el plano. Una rotación de un vector en el plano es lo que podéis suponer que es, mover el vector dejando su inicio fijo y, por supuesto, sin poder cambiar su módulo. Esto hace que solo pueda moverse describiendo una circunferencia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
